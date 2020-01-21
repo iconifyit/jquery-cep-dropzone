@@ -39,3 +39,6 @@ You can over-ride these styles with :
 ```
 
 That's it. Just two simple style selectors.
+
+[![Watch the video](demo/preview.png)](https://youtu.be/kNmwpyifB0k)
+
