@@ -24,7 +24,8 @@ $(function() {
 
 ## Styling the dropzone
 
-The default CSS for the DropZone is inserted into the HTML `<head/>` via JS so that the entire plugin is self-contained in a single file. No external CSS file to link.
+The default CSS for the DropZone is inserted into the HTML `<head/>` via JS so that the entire plugin 
+is self-contained in a single file. No external CSS file to link.
 
 You can over-ride these styles with :
 
